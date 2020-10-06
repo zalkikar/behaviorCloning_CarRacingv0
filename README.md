@@ -10,4 +10,4 @@ Agent had a final validation loss of 0.06 and mean episode rewards of 450.
 
 Running test_agent.py gives the following results:
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/zalkikar/behaviorCloning_CarRacingv0/blob/main/agenttest.gif)
